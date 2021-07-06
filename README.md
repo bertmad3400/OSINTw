@@ -1,5 +1,10 @@
 # OSINTw
 
+## *Heads up:*
+*While this project hasn't been archived just of yet, all further development
+has moved to [Combitech's danish github](https://github.com/Combitech-DK/OSINTer)
+and this repo probably won't recieve any updates in the future.*
+
 ## What is OSINTw?
 OSINTw is a simple python script designed for simplifying and automating the
 parsing and storing of informations obtained from news article from a number of
